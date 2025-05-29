@@ -1,0 +1,116 @@
+[2025-05-28 22:34:28,982] {processor.py:153} INFO - Started process (PID=6334) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:34:28,983] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:34:28,983] {logging_mixin.py:115} INFO - [2025-05-28 22:34:28,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:34:28,994] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:34:29,138] {logging_mixin.py:115} INFO - [2025-05-28 22:34:29,137] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial
+[2025-05-28 22:34:29,154] {logging_mixin.py:115} INFO - [2025-05-28 22:34:29,153] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-05-28 22:34:29,164] {logging_mixin.py:115} INFO - [2025-05-28 22:34:29,164] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-05-28 22:34:29,164] {logging_mixin.py:115} INFO - [2025-05-28 22:34:29,164] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:29,186] {logging_mixin.py:115} INFO - [2025-05-28 22:34:29,185] {dag.py:2398} INFO - Creating ORM DAG for tutorial
+[2025-05-28 22:34:29,204] {logging_mixin.py:115} INFO - [2025-05-28 22:34:29,204] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:34:29.203638+00:00, run_after=2025-05-29T01:34:29.203638+00:00
+[2025-05-28 22:34:29,226] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.263 seconds
+[2025-05-28 22:35:15,021] {processor.py:153} INFO - Started process (PID=6482) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:35:15,028] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:35:15,029] {logging_mixin.py:115} INFO - [2025-05-28 22:35:15,029] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:35:15,048] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:35:15,077] {logging_mixin.py:115} INFO - [2025-05-28 22:35:15,077] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:15,106] {logging_mixin.py:115} INFO - [2025-05-28 22:35:15,106] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:35:15.106097+00:00, run_after=2025-05-29T01:35:15.106097+00:00
+[2025-05-28 22:35:15,127] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.113 seconds
+[2025-05-28 22:35:51,921] {processor.py:153} INFO - Started process (PID=6652) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:35:51,922] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:35:51,923] {logging_mixin.py:115} INFO - [2025-05-28 22:35:51,923] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:35:51,931] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:35:51,956] {logging_mixin.py:115} INFO - [2025-05-28 22:35:51,956] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:51,977] {logging_mixin.py:115} INFO - [2025-05-28 22:35:51,977] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:35:51.977205+00:00, run_after=2025-05-29T01:35:51.977205+00:00
+[2025-05-28 22:35:51,992] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2025-05-28 22:36:28,345] {processor.py:153} INFO - Started process (PID=7057) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:36:28,347] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:36:28,349] {logging_mixin.py:115} INFO - [2025-05-28 22:36:28,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:36:28,365] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:36:28,395] {logging_mixin.py:115} INFO - [2025-05-28 22:36:28,394] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:28,418] {logging_mixin.py:115} INFO - [2025-05-28 22:36:28,418] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:36:28.417796+00:00, run_after=2025-05-29T01:36:28.417796+00:00
+[2025-05-28 22:36:28,437] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.103 seconds
+[2025-05-28 22:37:04,880] {processor.py:153} INFO - Started process (PID=7289) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:37:04,881] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:37:04,882] {logging_mixin.py:115} INFO - [2025-05-28 22:37:04,881] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:37:04,892] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:37:04,923] {logging_mixin.py:115} INFO - [2025-05-28 22:37:04,923] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:04,960] {logging_mixin.py:115} INFO - [2025-05-28 22:37:04,960] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:37:04.959642+00:00, run_after=2025-05-29T01:37:04.959642+00:00
+[2025-05-28 22:37:04,989] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2025-05-28 22:37:41,025] {processor.py:153} INFO - Started process (PID=7332) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:37:41,026] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:37:41,026] {logging_mixin.py:115} INFO - [2025-05-28 22:37:41,026] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:37:41,034] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:37:41,055] {logging_mixin.py:115} INFO - [2025-05-28 22:37:41,055] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:41,075] {logging_mixin.py:115} INFO - [2025-05-28 22:37:41,075] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:37:41.074759+00:00, run_after=2025-05-29T01:37:41.074759+00:00
+[2025-05-28 22:37:41,093] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2025-05-28 22:38:17,550] {processor.py:153} INFO - Started process (PID=7474) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:38:17,552] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:38:17,552] {logging_mixin.py:115} INFO - [2025-05-28 22:38:17,552] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:38:17,561] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:38:17,585] {logging_mixin.py:115} INFO - [2025-05-28 22:38:17,585] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:17,607] {logging_mixin.py:115} INFO - [2025-05-28 22:38:17,607] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:38:17.607326+00:00, run_after=2025-05-29T01:38:17.607326+00:00
+[2025-05-28 22:38:17,622] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2025-05-28 22:38:58,009] {processor.py:153} INFO - Started process (PID=7705) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:38:58,011] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:38:58,016] {logging_mixin.py:115} INFO - [2025-05-28 22:38:58,012] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:38:58,048] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:38:58,146] {logging_mixin.py:115} INFO - [2025-05-28 22:38:58,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:58,243] {logging_mixin.py:115} INFO - [2025-05-28 22:38:58,242] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:38:58.241449+00:00, run_after=2025-05-29T01:38:58.241449+00:00
+[2025-05-28 22:38:58,302] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.321 seconds
+[2025-05-28 22:39:31,680] {processor.py:153} INFO - Started process (PID=7899) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:39:31,681] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:39:31,683] {logging_mixin.py:115} INFO - [2025-05-28 22:39:31,682] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:39:31,694] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:39:31,717] {logging_mixin.py:115} INFO - [2025-05-28 22:39:31,717] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:31,740] {logging_mixin.py:115} INFO - [2025-05-28 22:39:31,740] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:39:31.740228+00:00, run_after=2025-05-29T01:39:31.740228+00:00
+[2025-05-28 22:39:31,755] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2025-05-28 22:40:09,286] {processor.py:153} INFO - Started process (PID=7997) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:40:09,287] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:40:09,287] {logging_mixin.py:115} INFO - [2025-05-28 22:40:09,287] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:40:09,295] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:40:09,315] {logging_mixin.py:115} INFO - [2025-05-28 22:40:09,314] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:09,334] {logging_mixin.py:115} INFO - [2025-05-28 22:40:09,334] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:40:09.334407+00:00, run_after=2025-05-29T01:40:09.334407+00:00
+[2025-05-28 22:40:09,348] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2025-05-28 22:40:45,716] {processor.py:153} INFO - Started process (PID=8250) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:40:45,718] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:40:45,719] {logging_mixin.py:115} INFO - [2025-05-28 22:40:45,719] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:40:45,740] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:40:45,798] {logging_mixin.py:115} INFO - [2025-05-28 22:40:45,798] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:45,856] {logging_mixin.py:115} INFO - [2025-05-28 22:40:45,856] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:40:45.855836+00:00, run_after=2025-05-29T01:40:45.855836+00:00
+[2025-05-28 22:40:45,899] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.188 seconds
+[2025-05-28 22:41:22,696] {processor.py:153} INFO - Started process (PID=8504) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:41:22,699] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:41:22,701] {logging_mixin.py:115} INFO - [2025-05-28 22:41:22,700] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:41:22,715] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:41:22,747] {logging_mixin.py:115} INFO - [2025-05-28 22:41:22,746] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:22,781] {logging_mixin.py:115} INFO - [2025-05-28 22:41:22,781] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:41:22.780951+00:00, run_after=2025-05-29T01:41:22.780951+00:00
+[2025-05-28 22:41:22,806] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
+[2025-05-28 22:41:58,056] {processor.py:153} INFO - Started process (PID=8823) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:41:58,057] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:41:58,058] {logging_mixin.py:115} INFO - [2025-05-28 22:41:58,058] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:41:58,068] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:41:58,089] {logging_mixin.py:115} INFO - [2025-05-28 22:41:58,089] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:58,110] {logging_mixin.py:115} INFO - [2025-05-28 22:41:58,110] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:41:58.109990+00:00, run_after=2025-05-29T01:41:58.109990+00:00
+[2025-05-28 22:41:58,128] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2025-05-28 22:42:32,518] {processor.py:153} INFO - Started process (PID=9065) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:42:32,519] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:42:32,520] {logging_mixin.py:115} INFO - [2025-05-28 22:42:32,520] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:42:32,530] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:42:32,569] {logging_mixin.py:115} INFO - [2025-05-28 22:42:32,569] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:32,598] {logging_mixin.py:115} INFO - [2025-05-28 22:42:32,597] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:42:32.597275+00:00, run_after=2025-05-29T01:42:32.597275+00:00
+[2025-05-28 22:42:32,617] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2025-05-28 22:43:08,268] {processor.py:153} INFO - Started process (PID=9266) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:43:08,269] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:43:08,270] {logging_mixin.py:115} INFO - [2025-05-28 22:43:08,269] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:43:08,278] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:43:08,300] {logging_mixin.py:115} INFO - [2025-05-28 22:43:08,300] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:08,321] {logging_mixin.py:115} INFO - [2025-05-28 22:43:08,321] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:43:08.321116+00:00, run_after=2025-05-29T01:43:08.321116+00:00
+[2025-05-28 22:43:08,335] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2025-05-28 22:43:41,028] {processor.py:153} INFO - Started process (PID=9421) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:43:41,029] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-05-28 22:43:41,030] {logging_mixin.py:115} INFO - [2025-05-28 22:43:41,029] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:43:41,037] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-05-28 22:43:41,058] {logging_mixin.py:115} INFO - [2025-05-28 22:43:41,058] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:41,084] {logging_mixin.py:115} INFO - [2025-05-28 22:43:41,084] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-05-28T01:43:41.083823+00:00, run_after=2025-05-29T01:43:41.083823+00:00
+[2025-05-28 22:43:41,098] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds

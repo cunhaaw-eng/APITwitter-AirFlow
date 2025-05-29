@@ -1,0 +1,123 @@
+[2025-05-28 22:34:19,171] {processor.py:153} INFO - Started process (PID=6225) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:34:19,182] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:34:19,193] {logging_mixin.py:115} INFO - [2025-05-28 22:34:19,192] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:34:19,362] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:34:20,173] {logging_mixin.py:115} INFO - [2025-05-28 22:34:20,173] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-05-28 22:34:20,343] {logging_mixin.py:115} INFO - [2025-05-28 22:34:20,336] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-05-28 22:34:20,402] {logging_mixin.py:115} INFO - [2025-05-28 22:34:20,402] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-05-28 22:34:20,402] {logging_mixin.py:115} INFO - [2025-05-28 22:34:20,402] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:20,531] {logging_mixin.py:115} INFO - [2025-05-28 22:34:20,531] {dag.py:2398} INFO - Creating ORM DAG for example_xcom
+[2025-05-28 22:34:20,641] {logging_mixin.py:115} INFO - [2025-05-28 22:34:20,641] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:34:20,726] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 1.586 seconds
+[2025-05-28 22:35:10,056] {processor.py:153} INFO - Started process (PID=6478) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:35:10,058] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:35:10,059] {logging_mixin.py:115} INFO - [2025-05-28 22:35:10,059] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:35:10,095] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:35:10,206] {logging_mixin.py:115} INFO - [2025-05-28 22:35:10,206] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:10,233] {logging_mixin.py:115} INFO - [2025-05-28 22:35:10,233] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:35:10,252] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.203 seconds
+[2025-05-28 22:35:47,921] {processor.py:153} INFO - Started process (PID=6648) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:35:47,922] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:35:47,922] {logging_mixin.py:115} INFO - [2025-05-28 22:35:47,922] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:35:47,945] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:35:47,965] {logging_mixin.py:115} INFO - [2025-05-28 22:35:47,965] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:47,986] {logging_mixin.py:115} INFO - [2025-05-28 22:35:47,986] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:35:48,004] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.088 seconds
+[2025-05-28 22:36:24,354] {processor.py:153} INFO - Started process (PID=7027) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:36:24,356] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:36:24,357] {logging_mixin.py:115} INFO - [2025-05-28 22:36:24,357] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:36:24,378] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:36:24,433] {logging_mixin.py:115} INFO - [2025-05-28 22:36:24,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:24,449] {logging_mixin.py:115} INFO - [2025-05-28 22:36:24,449] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:36:24,465] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.118 seconds
+[2025-05-28 22:37:00,911] {processor.py:153} INFO - Started process (PID=7280) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:37:00,912] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:37:00,914] {logging_mixin.py:115} INFO - [2025-05-28 22:37:00,914] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:37:00,948] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:37:00,979] {logging_mixin.py:115} INFO - [2025-05-28 22:37:00,979] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:01,012] {logging_mixin.py:115} INFO - [2025-05-28 22:37:01,011] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:37:01,038] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.136 seconds
+[2025-05-28 22:37:35,973] {processor.py:153} INFO - Started process (PID=7328) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:37:35,975] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:37:35,975] {logging_mixin.py:115} INFO - [2025-05-28 22:37:35,975] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:37:36,006] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:37:36,070] {logging_mixin.py:115} INFO - [2025-05-28 22:37:36,070] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:36,087] {logging_mixin.py:115} INFO - [2025-05-28 22:37:36,087] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:37:36,102] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.134 seconds
+[2025-05-28 22:38:09,439] {processor.py:153} INFO - Started process (PID=7466) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:38:09,440] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:38:09,441] {logging_mixin.py:115} INFO - [2025-05-28 22:38:09,441] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:38:09,463] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:38:09,517] {logging_mixin.py:115} INFO - [2025-05-28 22:38:09,517] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:09,535] {logging_mixin.py:115} INFO - [2025-05-28 22:38:09,535] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:38:09,553] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.117 seconds
+[2025-05-28 22:38:46,930] {processor.py:153} INFO - Started process (PID=7640) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:38:46,931] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:38:46,932] {logging_mixin.py:115} INFO - [2025-05-28 22:38:46,932] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:38:46,969] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:38:47,069] {logging_mixin.py:115} INFO - [2025-05-28 22:38:47,068] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:47,102] {logging_mixin.py:115} INFO - [2025-05-28 22:38:47,102] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:38:47,129] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.206 seconds
+[2025-05-28 22:39:21,128] {processor.py:153} INFO - Started process (PID=7888) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:39:21,129] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:39:21,130] {logging_mixin.py:115} INFO - [2025-05-28 22:39:21,130] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:39:21,152] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:39:21,210] {logging_mixin.py:115} INFO - [2025-05-28 22:39:21,210] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:21,228] {logging_mixin.py:115} INFO - [2025-05-28 22:39:21,228] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:39:21,246] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.121 seconds
+[2025-05-28 22:39:56,547] {processor.py:153} INFO - Started process (PID=7984) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:39:56,549] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:39:56,550] {logging_mixin.py:115} INFO - [2025-05-28 22:39:56,550] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:39:56,597] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:39:56,639] {logging_mixin.py:115} INFO - [2025-05-28 22:39:56,639] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:56,698] {logging_mixin.py:115} INFO - [2025-05-28 22:39:56,698] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:39:56,742] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.200 seconds
+[2025-05-28 22:40:34,611] {processor.py:153} INFO - Started process (PID=8236) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:40:34,613] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:40:34,615] {logging_mixin.py:115} INFO - [2025-05-28 22:40:34,614] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:40:34,649] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:40:34,716] {logging_mixin.py:115} INFO - [2025-05-28 22:40:34,716] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:34,737] {logging_mixin.py:115} INFO - [2025-05-28 22:40:34,737] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:40:34,758] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.158 seconds
+[2025-05-28 22:41:14,536] {processor.py:153} INFO - Started process (PID=8384) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:41:14,538] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:41:14,540] {logging_mixin.py:115} INFO - [2025-05-28 22:41:14,540] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:41:14,582] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:41:14,635] {logging_mixin.py:115} INFO - [2025-05-28 22:41:14,635] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:14,670] {logging_mixin.py:115} INFO - [2025-05-28 22:41:14,670] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:41:14,700] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.172 seconds
+[2025-05-28 22:41:52,975] {processor.py:153} INFO - Started process (PID=8819) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:41:52,977] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:41:52,978] {logging_mixin.py:115} INFO - [2025-05-28 22:41:52,978] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:41:53,003] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:41:53,073] {logging_mixin.py:115} INFO - [2025-05-28 22:41:53,073] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:53,093] {logging_mixin.py:115} INFO - [2025-05-28 22:41:53,092] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:41:53,109] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.141 seconds
+[2025-05-28 22:42:26,358] {processor.py:153} INFO - Started process (PID=9006) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:42:26,359] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:42:26,360] {logging_mixin.py:115} INFO - [2025-05-28 22:42:26,360] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:42:26,384] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:42:26,411] {logging_mixin.py:115} INFO - [2025-05-28 22:42:26,411] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:26,441] {logging_mixin.py:115} INFO - [2025-05-28 22:42:26,441] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:42:26,466] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.113 seconds
+[2025-05-28 22:42:59,433] {processor.py:153} INFO - Started process (PID=9256) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:42:59,434] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:42:59,435] {logging_mixin.py:115} INFO - [2025-05-28 22:42:59,434] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:42:59,462] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:42:59,528] {logging_mixin.py:115} INFO - [2025-05-28 22:42:59,527] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:59,548] {logging_mixin.py:115} INFO - [2025-05-28 22:42:59,548] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:42:59,567] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.142 seconds
+[2025-05-28 22:43:31,710] {processor.py:153} INFO - Started process (PID=9374) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:43:31,710] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:43:31,711] {logging_mixin.py:115} INFO - [2025-05-28 22:43:31,711] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:43:31,733] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:43:31,789] {logging_mixin.py:115} INFO - [2025-05-28 22:43:31,788] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:31,808] {logging_mixin.py:115} INFO - [2025-05-28 22:43:31,808] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:43:31,823] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.119 seconds
+[2025-05-28 22:44:07,065] {processor.py:153} INFO - Started process (PID=9500) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:44:07,066] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-05-28 22:44:07,070] {logging_mixin.py:115} INFO - [2025-05-28 22:44:07,069] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:44:07,131] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-05-28 22:44:07,283] {logging_mixin.py:115} INFO - [2025-05-28 22:44:07,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:44:07,331] {logging_mixin.py:115} INFO - [2025-05-28 22:44:07,331] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-05-28 22:44:07,366] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.311 seconds

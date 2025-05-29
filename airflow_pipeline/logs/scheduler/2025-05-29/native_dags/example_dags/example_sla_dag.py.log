@@ -1,0 +1,116 @@
+[2025-05-28 22:34:31,077] {processor.py:153} INFO - Started process (PID=6360) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:34:31,078] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:34:31,112] {logging_mixin.py:115} INFO - [2025-05-28 22:34:31,110] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:34:31,161] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:34:31,362] {logging_mixin.py:115} INFO - [2025-05-28 22:34:31,361] {manager.py:508} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2025-05-28 22:34:31,375] {logging_mixin.py:115} INFO - [2025-05-28 22:34:31,375] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2025-05-28 22:34:31,395] {logging_mixin.py:115} INFO - [2025-05-28 22:34:31,395] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2025-05-28 22:34:31,395] {logging_mixin.py:115} INFO - [2025-05-28 22:34:31,395] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:33,474] {logging_mixin.py:115} INFO - [2025-05-28 22:34:33,474] {dag.py:2398} INFO - Creating ORM DAG for example_sla_dag
+[2025-05-28 22:34:33,802] {logging_mixin.py:115} INFO - [2025-05-28 22:34:33,802] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:32:00+00:00, run_after=2025-05-29T01:34:00+00:00
+[2025-05-28 22:34:33,857] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 2.789 seconds
+[2025-05-28 22:35:16,716] {processor.py:153} INFO - Started process (PID=6484) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:35:16,722] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:35:16,723] {logging_mixin.py:115} INFO - [2025-05-28 22:35:16,723] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:35:16,762] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:35:16,794] {logging_mixin.py:115} INFO - [2025-05-28 22:35:16,794] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:16,834] {logging_mixin.py:115} INFO - [2025-05-28 22:35:16,833] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:32:00+00:00, run_after=2025-05-29T01:34:00+00:00
+[2025-05-28 22:35:16,852] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.141 seconds
+[2025-05-28 22:35:54,342] {processor.py:153} INFO - Started process (PID=6669) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:35:54,343] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:35:54,344] {logging_mixin.py:115} INFO - [2025-05-28 22:35:54,344] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:35:54,370] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:35:54,390] {logging_mixin.py:115} INFO - [2025-05-28 22:35:54,390] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:54,414] {logging_mixin.py:115} INFO - [2025-05-28 22:35:54,414] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:32:00+00:00, run_after=2025-05-29T01:34:00+00:00
+[2025-05-28 22:35:54,430] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.092 seconds
+[2025-05-28 22:36:30,881] {processor.py:153} INFO - Started process (PID=7089) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:36:30,882] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:36:30,883] {logging_mixin.py:115} INFO - [2025-05-28 22:36:30,883] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:36:30,913] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:36:30,942] {logging_mixin.py:115} INFO - [2025-05-28 22:36:30,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:30,971] {logging_mixin.py:115} INFO - [2025-05-28 22:36:30,971] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:34:00+00:00, run_after=2025-05-29T01:36:00+00:00
+[2025-05-28 22:36:30,986] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-05-28 22:37:07,436] {processor.py:153} INFO - Started process (PID=7293) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:37:07,438] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:37:07,438] {logging_mixin.py:115} INFO - [2025-05-28 22:37:07,438] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:37:07,459] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:37:07,478] {logging_mixin.py:115} INFO - [2025-05-28 22:37:07,477] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:07,501] {logging_mixin.py:115} INFO - [2025-05-28 22:37:07,501] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:34:00+00:00, run_after=2025-05-29T01:36:00+00:00
+[2025-05-28 22:37:07,513] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.081 seconds
+[2025-05-28 22:37:42,063] {processor.py:153} INFO - Started process (PID=7334) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:37:42,064] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:37:42,065] {logging_mixin.py:115} INFO - [2025-05-28 22:37:42,065] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:37:42,089] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:37:42,108] {logging_mixin.py:115} INFO - [2025-05-28 22:37:42,108] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:42,131] {logging_mixin.py:115} INFO - [2025-05-28 22:37:42,131] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:34:00+00:00, run_after=2025-05-29T01:36:00+00:00
+[2025-05-28 22:37:42,150] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.091 seconds
+[2025-05-28 22:38:19,942] {processor.py:153} INFO - Started process (PID=7477) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:38:19,944] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:38:19,945] {logging_mixin.py:115} INFO - [2025-05-28 22:38:19,945] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:38:19,986] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:38:20,013] {logging_mixin.py:115} INFO - [2025-05-28 22:38:20,013] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:20,048] {logging_mixin.py:115} INFO - [2025-05-28 22:38:20,048] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:36:00+00:00, run_after=2025-05-29T01:38:00+00:00
+[2025-05-28 22:38:20,066] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.129 seconds
+[2025-05-28 22:39:00,278] {processor.py:153} INFO - Started process (PID=7739) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:39:00,279] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:39:00,280] {logging_mixin.py:115} INFO - [2025-05-28 22:39:00,280] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:39:00,318] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:39:00,372] {logging_mixin.py:115} INFO - [2025-05-28 22:39:00,372] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:00,469] {logging_mixin.py:115} INFO - [2025-05-28 22:39:00,469] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:36:00+00:00, run_after=2025-05-29T01:38:00+00:00
+[2025-05-28 22:39:00,509] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.238 seconds
+[2025-05-28 22:39:37,473] {processor.py:153} INFO - Started process (PID=7938) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:39:37,475] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:39:37,476] {logging_mixin.py:115} INFO - [2025-05-28 22:39:37,476] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:39:37,513] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:39:37,542] {logging_mixin.py:115} INFO - [2025-05-28 22:39:37,542] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:37,570] {logging_mixin.py:115} INFO - [2025-05-28 22:39:37,570] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:36:00+00:00, run_after=2025-05-29T01:38:00+00:00
+[2025-05-28 22:39:37,594] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.131 seconds
+[2025-05-28 22:40:11,581] {processor.py:153} INFO - Started process (PID=8000) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:40:11,582] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:40:11,583] {logging_mixin.py:115} INFO - [2025-05-28 22:40:11,583] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:40:11,612] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:40:11,634] {logging_mixin.py:115} INFO - [2025-05-28 22:40:11,633] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:11,662] {logging_mixin.py:115} INFO - [2025-05-28 22:40:11,661] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:38:00+00:00, run_after=2025-05-29T01:40:00+00:00
+[2025-05-28 22:40:11,686] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.110 seconds
+[2025-05-28 22:40:47,723] {processor.py:153} INFO - Started process (PID=8252) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:40:47,725] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:40:47,728] {logging_mixin.py:115} INFO - [2025-05-28 22:40:47,726] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:40:47,779] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:40:47,812] {logging_mixin.py:115} INFO - [2025-05-28 22:40:47,812] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:47,839] {logging_mixin.py:115} INFO - [2025-05-28 22:40:47,839] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:38:00+00:00, run_after=2025-05-29T01:40:00+00:00
+[2025-05-28 22:40:47,858] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.144 seconds
+[2025-05-28 22:41:25,242] {processor.py:153} INFO - Started process (PID=8510) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:41:25,245] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:41:25,248] {logging_mixin.py:115} INFO - [2025-05-28 22:41:25,247] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:41:25,298] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:41:25,332] {logging_mixin.py:115} INFO - [2025-05-28 22:41:25,332] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:25,374] {logging_mixin.py:115} INFO - [2025-05-28 22:41:25,373] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:38:00+00:00, run_after=2025-05-29T01:40:00+00:00
+[2025-05-28 22:41:25,431] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.198 seconds
+[2025-05-28 22:42:02,052] {processor.py:153} INFO - Started process (PID=8906) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:42:02,069] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:42:02,070] {logging_mixin.py:115} INFO - [2025-05-28 22:42:02,070] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:42:02,092] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:42:02,112] {logging_mixin.py:115} INFO - [2025-05-28 22:42:02,112] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:02,135] {logging_mixin.py:115} INFO - [2025-05-28 22:42:02,135] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:40:00+00:00, run_after=2025-05-29T01:42:00+00:00
+[2025-05-28 22:42:02,152] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.108 seconds
+[2025-05-28 22:42:38,181] {processor.py:153} INFO - Started process (PID=9082) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:42:38,185] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:42:38,186] {logging_mixin.py:115} INFO - [2025-05-28 22:42:38,186] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:42:38,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:42:38,268] {logging_mixin.py:115} INFO - [2025-05-28 22:42:38,268] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:38,321] {logging_mixin.py:115} INFO - [2025-05-28 22:42:38,320] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:40:00+00:00, run_after=2025-05-29T01:42:00+00:00
+[2025-05-28 22:42:38,358] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.187 seconds
+[2025-05-28 22:43:15,148] {processor.py:153} INFO - Started process (PID=9302) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:43:15,149] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:43:15,150] {logging_mixin.py:115} INFO - [2025-05-28 22:43:15,150] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:43:15,171] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:43:15,191] {logging_mixin.py:115} INFO - [2025-05-28 22:43:15,191] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:15,214] {logging_mixin.py:115} INFO - [2025-05-28 22:43:15,214] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:40:00+00:00, run_after=2025-05-29T01:42:00+00:00
+[2025-05-28 22:43:15,231] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.089 seconds
+[2025-05-28 22:43:47,365] {processor.py:153} INFO - Started process (PID=9452) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:43:47,366] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-05-28 22:43:47,368] {logging_mixin.py:115} INFO - [2025-05-28 22:43:47,367] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:43:47,404] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-05-28 22:43:47,432] {logging_mixin.py:115} INFO - [2025-05-28 22:43:47,432] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:47,460] {logging_mixin.py:115} INFO - [2025-05-28 22:43:47,460] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2025-05-29T01:40:00+00:00, run_after=2025-05-29T01:42:00+00:00
+[2025-05-28 22:43:47,477] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.123 seconds

@@ -1,0 +1,109 @@
+[2025-05-28 22:34:52,123] {processor.py:153} INFO - Started process (PID=6456) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:34:52,124] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:34:52,124] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,124] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:34:52,142] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:34:52,226] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,226] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-05-28 22:34:52,237] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,237] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-05-28 22:34:52,246] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,245] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-05-28 22:34:52,246] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,246] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:52,254] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,254] {dag.py:2398} INFO - Creating ORM DAG for example_bash_operator
+[2025-05-28 22:34:52,266] {logging_mixin.py:115} INFO - [2025-05-28 22:34:52,265] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:34:52,282] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.165 seconds
+[2025-05-28 22:35:32,502] {processor.py:153} INFO - Started process (PID=6606) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:35:32,503] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:35:32,503] {logging_mixin.py:115} INFO - [2025-05-28 22:35:32,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:35:32,533] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:35:32,567] {logging_mixin.py:115} INFO - [2025-05-28 22:35:32,567] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:32,596] {logging_mixin.py:115} INFO - [2025-05-28 22:35:32,596] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:35:32,618] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.121 seconds
+[2025-05-28 22:36:10,870] {processor.py:153} INFO - Started process (PID=6911) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:36:10,877] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:36:10,878] {logging_mixin.py:115} INFO - [2025-05-28 22:36:10,877] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:36:10,922] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:36:10,993] {logging_mixin.py:115} INFO - [2025-05-28 22:36:10,993] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:11,050] {logging_mixin.py:115} INFO - [2025-05-28 22:36:11,050] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:36:11,087] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.223 seconds
+[2025-05-28 22:36:46,501] {processor.py:153} INFO - Started process (PID=7158) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:36:46,502] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:36:46,503] {logging_mixin.py:115} INFO - [2025-05-28 22:36:46,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:36:46,520] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:36:46,540] {logging_mixin.py:115} INFO - [2025-05-28 22:36:46,540] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:46,568] {logging_mixin.py:115} INFO - [2025-05-28 22:36:46,568] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:36:46,583] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.091 seconds
+[2025-05-28 22:37:22,809] {processor.py:153} INFO - Started process (PID=7311) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:37:22,811] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:37:22,812] {logging_mixin.py:115} INFO - [2025-05-28 22:37:22,812] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:37:22,841] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:37:22,872] {logging_mixin.py:115} INFO - [2025-05-28 22:37:22,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:22,905] {logging_mixin.py:115} INFO - [2025-05-28 22:37:22,904] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:37:22,926] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.122 seconds
+[2025-05-28 22:37:59,690] {processor.py:153} INFO - Started process (PID=7456) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:37:59,691] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:37:59,692] {logging_mixin.py:115} INFO - [2025-05-28 22:37:59,692] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:37:59,708] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:37:59,730] {logging_mixin.py:115} INFO - [2025-05-28 22:37:59,730] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:59,751] {logging_mixin.py:115} INFO - [2025-05-28 22:37:59,751] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:37:59,765] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.079 seconds
+[2025-05-28 22:38:38,070] {processor.py:153} INFO - Started process (PID=7603) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:38:38,071] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:38:38,072] {logging_mixin.py:115} INFO - [2025-05-28 22:38:38,072] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:38:38,088] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:38:38,109] {logging_mixin.py:115} INFO - [2025-05-28 22:38:38,109] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:38,131] {logging_mixin.py:115} INFO - [2025-05-28 22:38:38,131] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:38:38,147] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.083 seconds
+[2025-05-28 22:39:23,608] {processor.py:153} INFO - Started process (PID=7890) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:39:23,609] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:39:23,610] {logging_mixin.py:115} INFO - [2025-05-28 22:39:23,610] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:39:23,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:39:23,646] {logging_mixin.py:115} INFO - [2025-05-28 22:39:23,646] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:23,669] {logging_mixin.py:115} INFO - [2025-05-28 22:39:23,669] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:39:23,683] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.081 seconds
+[2025-05-28 22:39:58,898] {processor.py:153} INFO - Started process (PID=7986) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:39:58,900] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:39:58,901] {logging_mixin.py:115} INFO - [2025-05-28 22:39:58,900] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:39:58,922] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:39:58,953] {logging_mixin.py:115} INFO - [2025-05-28 22:39:58,952] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:59,002] {logging_mixin.py:115} INFO - [2025-05-28 22:39:59,002] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:39:59,031] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2025-05-28 22:40:37,558] {processor.py:153} INFO - Started process (PID=8239) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:40:37,559] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:40:37,559] {logging_mixin.py:115} INFO - [2025-05-28 22:40:37,559] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:40:37,575] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:40:37,596] {logging_mixin.py:115} INFO - [2025-05-28 22:40:37,596] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:37,618] {logging_mixin.py:115} INFO - [2025-05-28 22:40:37,618] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:40:37,633] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.082 seconds
+[2025-05-28 22:41:18,533] {processor.py:153} INFO - Started process (PID=8444) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:41:18,536] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:41:18,537] {logging_mixin.py:115} INFO - [2025-05-28 22:41:18,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:41:18,572] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:41:18,621] {logging_mixin.py:115} INFO - [2025-05-28 22:41:18,621] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:18,703] {logging_mixin.py:115} INFO - [2025-05-28 22:41:18,703] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:41:18,748] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.228 seconds
+[2025-05-28 22:41:59,220] {processor.py:153} INFO - Started process (PID=8839) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:41:59,222] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:41:59,222] {logging_mixin.py:115} INFO - [2025-05-28 22:41:59,222] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:41:59,238] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:41:59,258] {logging_mixin.py:115} INFO - [2025-05-28 22:41:59,258] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:59,280] {logging_mixin.py:115} INFO - [2025-05-28 22:41:59,280] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:41:59,293] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.080 seconds
+[2025-05-28 22:42:33,055] {processor.py:153} INFO - Started process (PID=9066) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:42:33,056] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:42:33,056] {logging_mixin.py:115} INFO - [2025-05-28 22:42:33,056] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:42:33,075] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:42:33,100] {logging_mixin.py:115} INFO - [2025-05-28 22:42:33,099] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:33,136] {logging_mixin.py:115} INFO - [2025-05-28 22:42:33,136] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:42:33,161] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2025-05-28 22:43:11,424] {processor.py:153} INFO - Started process (PID=9285) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:43:11,425] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:43:11,426] {logging_mixin.py:115} INFO - [2025-05-28 22:43:11,426] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:43:11,447] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:43:11,469] {logging_mixin.py:115} INFO - [2025-05-28 22:43:11,469] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:11,491] {logging_mixin.py:115} INFO - [2025-05-28 22:43:11,491] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:43:11,506] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2025-05-28 22:43:49,797] {processor.py:153} INFO - Started process (PID=9464) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:43:49,799] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-05-28 22:43:49,799] {logging_mixin.py:115} INFO - [2025-05-28 22:43:49,799] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:43:49,815] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-05-28 22:43:49,835] {logging_mixin.py:115} INFO - [2025-05-28 22:43:49,835] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:49,860] {logging_mixin.py:115} INFO - [2025-05-28 22:43:49,860] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:43:49,876] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.086 seconds

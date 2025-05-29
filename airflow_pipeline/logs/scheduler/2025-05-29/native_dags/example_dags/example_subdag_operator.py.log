@@ -1,0 +1,198 @@
+[2025-05-28 22:34:35,063] {processor.py:153} INFO - Started process (PID=6390) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:34:35,064] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:34:35,064] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,064] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:34:35,137] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:34:35,266] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,265] {manager.py:508} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2025-05-28 22:34:35,277] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,277] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2025-05-28 22:34:35,289] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,289] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2025-05-28 22:34:35,289] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,289] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:34:35,318] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,318] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2025-05-28 22:34:35,319] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,319] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2025-05-28 22:34:35,321] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,321] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator
+[2025-05-28 22:34:35,332] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,332] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:34:35,333] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,333] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:34:35,333] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,333] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:34:35,344] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,344] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:34:35,348] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,348] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:34:35,348] {logging_mixin.py:115} INFO - [2025-05-28 22:34:35,348] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:34:35,412] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.375 seconds
+[2025-05-28 22:35:17,997] {processor.py:153} INFO - Started process (PID=6485) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:35:17,998] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:35:17,998] {logging_mixin.py:115} INFO - [2025-05-28 22:35:17,998] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:35:18,024] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:35:18,045] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,045] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:35:18,066] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,066] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:35:18,066] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,066] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:35:18,066] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,066] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:35:18,073] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,073] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:35:18,078] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,078] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:35:18,078] {logging_mixin.py:115} INFO - [2025-05-28 22:35:18,078] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:35:18,089] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.096 seconds
+[2025-05-28 22:35:55,514] {processor.py:153} INFO - Started process (PID=6679) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:35:55,518] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:35:55,521] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,521] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:35:55,621] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:35:55,695] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,695] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:35:55,737] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,737] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:35:55,737] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,737] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:35:55,738] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,738] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:35:55,755] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,755] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:35:55,760] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,760] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:35:55,760] {logging_mixin.py:115} INFO - [2025-05-28 22:35:55,760] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:35:55,778] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.281 seconds
+[2025-05-28 22:36:31,899] {processor.py:153} INFO - Started process (PID=7090) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:36:31,904] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:36:31,905] {logging_mixin.py:115} INFO - [2025-05-28 22:36:31,904] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:36:31,940] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:36:31,969] {logging_mixin.py:115} INFO - [2025-05-28 22:36:31,969] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:36:32,004] {logging_mixin.py:115} INFO - [2025-05-28 22:36:32,003] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:36:32,004] {logging_mixin.py:115} INFO - [2025-05-28 22:36:32,004] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:36:32,004] {logging_mixin.py:115} INFO - [2025-05-28 22:36:32,004] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:36:32,011] {logging_mixin.py:115} INFO - [2025-05-28 22:36:32,011] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:36:32,016] {logging_mixin.py:115} INFO - [2025-05-28 22:36:32,016] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:36:32,017] {logging_mixin.py:115} INFO - [2025-05-28 22:36:32,016] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:36:32,026] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.133 seconds
+[2025-05-28 22:37:08,575] {processor.py:153} INFO - Started process (PID=7294) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:37:08,576] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:37:08,577] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,577] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:37:08,609] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:37:08,634] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,634] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:37:08,655] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,655] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:37:08,655] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,655] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:37:08,655] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,655] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:37:08,662] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,662] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:37:08,668] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,668] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:37:08,668] {logging_mixin.py:115} INFO - [2025-05-28 22:37:08,668] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:37:08,678] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.107 seconds
+[2025-05-28 22:37:43,226] {processor.py:153} INFO - Started process (PID=7335) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:37:43,227] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:37:43,228] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,227] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:37:43,279] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:37:43,309] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,308] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:37:43,333] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,333] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:37:43,334] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,334] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:37:43,334] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,334] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:37:43,342] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,342] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:37:43,349] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,349] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:37:43,349] {logging_mixin.py:115} INFO - [2025-05-28 22:37:43,349] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:37:43,359] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.142 seconds
+[2025-05-28 22:38:21,223] {processor.py:153} INFO - Started process (PID=7478) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:38:21,225] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:38:21,227] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,227] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:38:21,292] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:38:21,325] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,325] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:38:21,358] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,358] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:38:21,360] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,359] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:38:21,360] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,360] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:38:21,369] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,369] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:38:21,375] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,375] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:38:21,376] {logging_mixin.py:115} INFO - [2025-05-28 22:38:21,376] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:38:21,386] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.169 seconds
+[2025-05-28 22:39:01,645] {processor.py:153} INFO - Started process (PID=7741) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:39:01,646] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:39:01,647] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,647] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:39:01,687] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:39:01,736] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,735] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:39:01,775] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,775] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:39:01,784] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,784] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:39:01,785] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,784] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:39:01,793] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,793] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:39:01,801] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,801] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:39:01,801] {logging_mixin.py:115} INFO - [2025-05-28 22:39:01,801] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:39:01,812] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.173 seconds
+[2025-05-28 22:39:38,741] {processor.py:153} INFO - Started process (PID=7958) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:39:38,743] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:39:38,744] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,744] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:39:38,781] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:39:38,808] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,808] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:39:38,839] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,839] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:39:38,839] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,839] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:39:38,839] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,839] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:39:38,847] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,846] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:39:38,854] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,854] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:39:38,854] {logging_mixin.py:115} INFO - [2025-05-28 22:39:38,854] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:39:38,864] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.131 seconds
+[2025-05-28 22:40:17,526] {processor.py:153} INFO - Started process (PID=8062) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:40:17,527] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:40:17,528] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,528] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:40:17,556] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:40:17,579] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,578] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:40:17,599] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,599] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:40:17,599] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,599] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:40:17,599] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,599] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:40:17,605] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,605] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:40:17,611] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,611] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:40:17,611] {logging_mixin.py:115} INFO - [2025-05-28 22:40:17,611] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:40:17,620] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.100 seconds
+[2025-05-28 22:40:56,316] {processor.py:153} INFO - Started process (PID=8262) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:40:56,317] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:40:56,318] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,318] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:40:56,349] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:40:56,380] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,380] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:40:56,407] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,407] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:40:56,407] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,407] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:40:56,407] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,407] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:40:56,413] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,413] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:40:56,424] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,424] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:40:56,425] {logging_mixin.py:115} INFO - [2025-05-28 22:40:56,425] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:40:56,436] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.127 seconds
+[2025-05-28 22:41:35,866] {processor.py:153} INFO - Started process (PID=8637) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:41:35,868] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:41:35,869] {logging_mixin.py:115} INFO - [2025-05-28 22:41:35,869] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:41:35,912] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:41:35,954] {logging_mixin.py:115} INFO - [2025-05-28 22:41:35,954] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:41:35,991] {logging_mixin.py:115} INFO - [2025-05-28 22:41:35,991] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:41:35,992] {logging_mixin.py:115} INFO - [2025-05-28 22:41:35,991] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:41:35,992] {logging_mixin.py:115} INFO - [2025-05-28 22:41:35,992] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:41:36,001] {logging_mixin.py:115} INFO - [2025-05-28 22:41:36,000] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:41:36,010] {logging_mixin.py:115} INFO - [2025-05-28 22:41:36,010] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:41:36,011] {logging_mixin.py:115} INFO - [2025-05-28 22:41:36,011] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:41:36,022] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.173 seconds
+[2025-05-28 22:42:11,115] {processor.py:153} INFO - Started process (PID=8928) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:42:11,116] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:42:11,117] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,117] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:42:11,146] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:42:11,168] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,168] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:42:11,190] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,190] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:42:11,191] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,191] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:42:11,191] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,191] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:42:11,197] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,197] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:42:11,202] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,202] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:42:11,202] {logging_mixin.py:115} INFO - [2025-05-28 22:42:11,202] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:42:11,211] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.102 seconds
+[2025-05-28 22:42:46,517] {processor.py:153} INFO - Started process (PID=9187) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:42:46,518] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:42:46,518] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,518] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:42:46,566] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:42:46,628] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,628] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:42:46,668] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,667] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:42:46,668] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,668] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:42:46,668] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,668] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:42:46,679] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,679] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:42:46,686] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,686] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:42:46,686] {logging_mixin.py:115} INFO - [2025-05-28 22:42:46,686] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:42:46,702] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.192 seconds
+[2025-05-28 22:43:22,710] {processor.py:153} INFO - Started process (PID=9328) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:43:22,712] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:43:22,713] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,713] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:43:22,746] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:43:22,768] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,768] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:43:22,788] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,788] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:43:22,788] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,788] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:43:22,788] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,788] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:43:22,794] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,794] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:43:22,800] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,800] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:43:22,800] {logging_mixin.py:115} INFO - [2025-05-28 22:43:22,800] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:43:22,809] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.103 seconds
+[2025-05-28 22:44:00,185] {processor.py:153} INFO - Started process (PID=9491) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:44:00,187] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-05-28 22:44:00,188] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,187] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:44:00,221] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-05-28 22:44:00,250] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,250] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-05-28 22:44:00,275] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,275] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-05-28 22:44:00,276] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,276] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:44:00,276] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,276] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:44:00,283] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,283] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-05-28 22:44:00,291] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,291] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-05-28 22:44:00,291] {logging_mixin.py:115} INFO - [2025-05-28 22:44:00,291] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-05-28 22:44:00,303] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.124 seconds

@@ -1,0 +1,109 @@
+[2025-05-28 22:34:59,677] {processor.py:153} INFO - Started process (PID=6464) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:34:59,678] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:34:59,678] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,678] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:34:59,708] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:34:59,838] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,838] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2025-05-28 22:34:59,853] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,852] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2025-05-28 22:34:59,865] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,865] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2025-05-28 22:34:59,865] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,865] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:59,879] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,878] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2025-05-28 22:34:59,894] {logging_mixin.py:115} INFO - [2025-05-28 22:34:59,894] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:34:59,918] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.247 seconds
+[2025-05-28 22:35:42,724] {processor.py:153} INFO - Started process (PID=6641) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:35:42,725] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:35:42,726] {logging_mixin.py:115} INFO - [2025-05-28 22:35:42,726] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:35:42,739] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:35:42,766] {logging_mixin.py:115} INFO - [2025-05-28 22:35:42,766] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:42,791] {logging_mixin.py:115} INFO - [2025-05-28 22:35:42,791] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:35:42,809] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2025-05-28 22:36:21,463] {processor.py:153} INFO - Started process (PID=7023) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:36:21,464] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:36:21,464] {logging_mixin.py:115} INFO - [2025-05-28 22:36:21,464] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:36:21,478] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:36:21,501] {logging_mixin.py:115} INFO - [2025-05-28 22:36:21,501] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:21,520] {logging_mixin.py:115} INFO - [2025-05-28 22:36:21,520] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:36:21,533] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2025-05-28 22:36:56,589] {processor.py:153} INFO - Started process (PID=7272) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:36:56,590] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:36:56,591] {logging_mixin.py:115} INFO - [2025-05-28 22:36:56,591] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:36:56,604] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:36:56,629] {logging_mixin.py:115} INFO - [2025-05-28 22:36:56,629] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:56,651] {logging_mixin.py:115} INFO - [2025-05-28 22:36:56,651] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:36:56,670] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2025-05-28 22:37:32,000] {processor.py:153} INFO - Started process (PID=7324) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:37:32,002] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:37:32,002] {logging_mixin.py:115} INFO - [2025-05-28 22:37:32,002] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:37:32,023] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:37:32,049] {logging_mixin.py:115} INFO - [2025-05-28 22:37:32,049] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:32,073] {logging_mixin.py:115} INFO - [2025-05-28 22:37:32,073] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:37:32,087] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2025-05-28 22:38:11,939] {processor.py:153} INFO - Started process (PID=7468) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:38:11,941] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:38:11,943] {logging_mixin.py:115} INFO - [2025-05-28 22:38:11,943] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:38:11,961] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:38:12,001] {logging_mixin.py:115} INFO - [2025-05-28 22:38:12,001] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:12,032] {logging_mixin.py:115} INFO - [2025-05-28 22:38:12,032] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:38:12,051] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.116 seconds
+[2025-05-28 22:38:52,196] {processor.py:153} INFO - Started process (PID=7646) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:38:52,198] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:38:52,198] {logging_mixin.py:115} INFO - [2025-05-28 22:38:52,198] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:38:52,222] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:38:52,266] {logging_mixin.py:115} INFO - [2025-05-28 22:38:52,266] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:52,314] {logging_mixin.py:115} INFO - [2025-05-28 22:38:52,313] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:38:52,348] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2025-05-28 22:39:32,823] {processor.py:153} INFO - Started process (PID=7900) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:39:32,824] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:39:32,825] {logging_mixin.py:115} INFO - [2025-05-28 22:39:32,825] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:39:32,858] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:39:32,900] {logging_mixin.py:115} INFO - [2025-05-28 22:39:32,900] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:32,944] {logging_mixin.py:115} INFO - [2025-05-28 22:39:32,944] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:39:32,978] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2025-05-28 22:40:12,168] {processor.py:153} INFO - Started process (PID=8001) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:40:12,176] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:40:12,180] {logging_mixin.py:115} INFO - [2025-05-28 22:40:12,179] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:40:12,238] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:40:12,293] {logging_mixin.py:115} INFO - [2025-05-28 22:40:12,292] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:12,331] {logging_mixin.py:115} INFO - [2025-05-28 22:40:12,331] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:40:12,352] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.197 seconds
+[2025-05-28 22:40:48,991] {processor.py:153} INFO - Started process (PID=8253) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:40:48,992] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:40:48,994] {logging_mixin.py:115} INFO - [2025-05-28 22:40:48,993] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:40:49,010] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:40:49,038] {logging_mixin.py:115} INFO - [2025-05-28 22:40:49,038] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:49,065] {logging_mixin.py:115} INFO - [2025-05-28 22:40:49,065] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:40:49,082] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2025-05-28 22:41:30,189] {processor.py:153} INFO - Started process (PID=8548) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:41:30,190] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:41:30,191] {logging_mixin.py:115} INFO - [2025-05-28 22:41:30,190] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:41:30,205] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:41:30,229] {logging_mixin.py:115} INFO - [2025-05-28 22:41:30,229] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:30,250] {logging_mixin.py:115} INFO - [2025-05-28 22:41:30,250] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:41:30,264] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2025-05-28 22:42:06,764] {processor.py:153} INFO - Started process (PID=8919) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:42:06,765] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:42:06,766] {logging_mixin.py:115} INFO - [2025-05-28 22:42:06,766] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:42:06,778] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:42:06,801] {logging_mixin.py:115} INFO - [2025-05-28 22:42:06,801] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:06,822] {logging_mixin.py:115} INFO - [2025-05-28 22:42:06,822] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:42:06,840] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2025-05-28 22:42:43,086] {processor.py:153} INFO - Started process (PID=9131) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:42:43,087] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:42:43,089] {logging_mixin.py:115} INFO - [2025-05-28 22:42:43,089] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:42:43,129] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:42:43,205] {logging_mixin.py:115} INFO - [2025-05-28 22:42:43,205] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:43,250] {logging_mixin.py:115} INFO - [2025-05-28 22:42:43,250] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:42:43,284] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.211 seconds
+[2025-05-28 22:43:19,478] {processor.py:153} INFO - Started process (PID=9319) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:43:19,479] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:43:19,479] {logging_mixin.py:115} INFO - [2025-05-28 22:43:19,479] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:43:19,492] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:43:19,519] {logging_mixin.py:115} INFO - [2025-05-28 22:43:19,519] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:19,539] {logging_mixin.py:115} INFO - [2025-05-28 22:43:19,539] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:43:19,555] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2025-05-28 22:43:57,908] {processor.py:153} INFO - Started process (PID=9489) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:43:57,909] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-05-28 22:43:57,910] {logging_mixin.py:115} INFO - [2025-05-28 22:43:57,909] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:43:57,924] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-05-28 22:43:57,949] {logging_mixin.py:115} INFO - [2025-05-28 22:43:57,949] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:57,972] {logging_mixin.py:115} INFO - [2025-05-28 22:43:57,972] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-05-28 22:43:57,987] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds

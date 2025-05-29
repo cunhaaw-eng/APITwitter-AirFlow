@@ -1,0 +1,116 @@
+[2025-05-28 22:34:38,737] {processor.py:153} INFO - Started process (PID=6443) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:34:38,737] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:34:38,738] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,738] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:34:38,752] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:34:38,849] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,849] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2025-05-28 22:34:38,861] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,861] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2025-05-28 22:34:38,895] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,895] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2025-05-28 22:34:38,896] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,896] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:38,913] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,913] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2025-05-28 22:34:38,926] {logging_mixin.py:115} INFO - [2025-05-28 22:34:38,925] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:34:38.925652+00:00, run_after=2025-05-29T01:34:38.925652+00:00
+[2025-05-28 22:34:38,953] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.220 seconds
+[2025-05-28 22:35:20,389] {processor.py:153} INFO - Started process (PID=6487) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:35:20,391] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:35:20,392] {logging_mixin.py:115} INFO - [2025-05-28 22:35:20,392] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:35:20,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:35:20,423] {logging_mixin.py:115} INFO - [2025-05-28 22:35:20,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:20,451] {logging_mixin.py:115} INFO - [2025-05-28 22:35:20,451] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:35:20.451117+00:00, run_after=2025-05-29T01:35:20.451117+00:00
+[2025-05-28 22:35:20,466] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.083 seconds
+[2025-05-28 22:35:58,297] {processor.py:153} INFO - Started process (PID=6770) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:35:58,299] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:35:58,300] {logging_mixin.py:115} INFO - [2025-05-28 22:35:58,299] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:35:58,312] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:35:58,344] {logging_mixin.py:115} INFO - [2025-05-28 22:35:58,344] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:58,381] {logging_mixin.py:115} INFO - [2025-05-28 22:35:58,380] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:35:58.380396+00:00, run_after=2025-05-29T01:35:58.380396+00:00
+[2025-05-28 22:35:58,412] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.121 seconds
+[2025-05-28 22:36:33,634] {processor.py:153} INFO - Started process (PID=7093) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:36:33,636] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:36:33,637] {logging_mixin.py:115} INFO - [2025-05-28 22:36:33,637] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:36:33,657] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:36:33,708] {logging_mixin.py:115} INFO - [2025-05-28 22:36:33,708] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:33,790] {logging_mixin.py:115} INFO - [2025-05-28 22:36:33,790] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:36:33.790158+00:00, run_after=2025-05-29T01:36:33.790158+00:00
+[2025-05-28 22:36:33,813] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.189 seconds
+[2025-05-28 22:37:10,185] {processor.py:153} INFO - Started process (PID=7296) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:37:10,186] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:37:10,187] {logging_mixin.py:115} INFO - [2025-05-28 22:37:10,187] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:37:10,195] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:37:10,213] {logging_mixin.py:115} INFO - [2025-05-28 22:37:10,213] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:10,235] {logging_mixin.py:115} INFO - [2025-05-28 22:37:10,235] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:37:10.235427+00:00, run_after=2025-05-29T01:37:10.235427+00:00
+[2025-05-28 22:37:10,250] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-05-28 22:37:45,686] {processor.py:153} INFO - Started process (PID=7338) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:37:45,687] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:37:45,688] {logging_mixin.py:115} INFO - [2025-05-28 22:37:45,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:37:45,701] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:37:45,735] {logging_mixin.py:115} INFO - [2025-05-28 22:37:45,735] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:45,781] {logging_mixin.py:115} INFO - [2025-05-28 22:37:45,780] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:37:45.779168+00:00, run_after=2025-05-29T01:37:45.779168+00:00
+[2025-05-28 22:37:45,824] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.146 seconds
+[2025-05-28 22:38:24,274] {processor.py:153} INFO - Started process (PID=7482) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:38:24,276] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:38:24,278] {logging_mixin.py:115} INFO - [2025-05-28 22:38:24,278] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:38:24,293] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:38:24,339] {logging_mixin.py:115} INFO - [2025-05-28 22:38:24,339] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:24,386] {logging_mixin.py:115} INFO - [2025-05-28 22:38:24,386] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:38:24.386121+00:00, run_after=2025-05-29T01:38:24.386121+00:00
+[2025-05-28 22:38:24,408] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.144 seconds
+[2025-05-28 22:39:04,179] {processor.py:153} INFO - Started process (PID=7764) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:39:04,182] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:39:04,183] {logging_mixin.py:115} INFO - [2025-05-28 22:39:04,182] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:39:04,201] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:39:04,254] {logging_mixin.py:115} INFO - [2025-05-28 22:39:04,253] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:04,309] {logging_mixin.py:115} INFO - [2025-05-28 22:39:04,308] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:39:04.307218+00:00, run_after=2025-05-29T01:39:04.307218+00:00
+[2025-05-28 22:39:04,340] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.169 seconds
+[2025-05-28 22:39:40,957] {processor.py:153} INFO - Started process (PID=7960) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:39:40,958] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:39:40,959] {logging_mixin.py:115} INFO - [2025-05-28 22:39:40,958] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:39:40,971] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:39:40,998] {logging_mixin.py:115} INFO - [2025-05-28 22:39:40,998] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:41,026] {logging_mixin.py:115} INFO - [2025-05-28 22:39:41,026] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:39:41.025491+00:00, run_after=2025-05-29T01:39:41.025491+00:00
+[2025-05-28 22:39:41,042] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.091 seconds
+[2025-05-28 22:40:20,056] {processor.py:153} INFO - Started process (PID=8113) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:40:20,057] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:40:20,057] {logging_mixin.py:115} INFO - [2025-05-28 22:40:20,057] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:40:20,066] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:40:20,088] {logging_mixin.py:115} INFO - [2025-05-28 22:40:20,088] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:20,110] {logging_mixin.py:115} INFO - [2025-05-28 22:40:20,110] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:40:20.110011+00:00, run_after=2025-05-29T01:40:20.110011+00:00
+[2025-05-28 22:40:20,126] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2025-05-28 22:40:58,002] {processor.py:153} INFO - Started process (PID=8264) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:40:58,003] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:40:58,004] {logging_mixin.py:115} INFO - [2025-05-28 22:40:58,004] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:40:58,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:40:58,041] {logging_mixin.py:115} INFO - [2025-05-28 22:40:58,041] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:58,067] {logging_mixin.py:115} INFO - [2025-05-28 22:40:58,067] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:40:58.066950+00:00, run_after=2025-05-29T01:40:58.066950+00:00
+[2025-05-28 22:40:58,087] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.090 seconds
+[2025-05-28 22:41:38,402] {processor.py:153} INFO - Started process (PID=8643) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:41:38,404] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:41:38,405] {logging_mixin.py:115} INFO - [2025-05-28 22:41:38,405] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:41:38,433] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:41:38,468] {logging_mixin.py:115} INFO - [2025-05-28 22:41:38,467] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:38,500] {logging_mixin.py:115} INFO - [2025-05-28 22:41:38,500] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:41:38.500296+00:00, run_after=2025-05-29T01:41:38.500296+00:00
+[2025-05-28 22:41:38,517] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.121 seconds
+[2025-05-28 22:42:15,854] {processor.py:153} INFO - Started process (PID=8956) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:42:15,856] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:42:15,858] {logging_mixin.py:115} INFO - [2025-05-28 22:42:15,857] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:42:15,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:42:15,899] {logging_mixin.py:115} INFO - [2025-05-28 22:42:15,898] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:15,919] {logging_mixin.py:115} INFO - [2025-05-28 22:42:15,919] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:42:15.918704+00:00, run_after=2025-05-29T01:42:15.918704+00:00
+[2025-05-28 22:42:15,932] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.090 seconds
+[2025-05-28 22:42:50,801] {processor.py:153} INFO - Started process (PID=9216) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:42:50,805] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:42:50,807] {logging_mixin.py:115} INFO - [2025-05-28 22:42:50,807] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:42:50,860] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:42:50,916] {logging_mixin.py:115} INFO - [2025-05-28 22:42:50,916] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:50,956] {logging_mixin.py:115} INFO - [2025-05-28 22:42:50,956] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:42:50.955880+00:00, run_after=2025-05-29T01:42:50.955880+00:00
+[2025-05-28 22:42:50,982] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.196 seconds
+[2025-05-28 22:43:26,711] {processor.py:153} INFO - Started process (PID=9347) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:43:26,713] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:43:26,713] {logging_mixin.py:115} INFO - [2025-05-28 22:43:26,713] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:43:26,723] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:43:26,744] {logging_mixin.py:115} INFO - [2025-05-28 22:43:26,744] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:26,765] {logging_mixin.py:115} INFO - [2025-05-28 22:43:26,765] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:43:26.765512+00:00, run_after=2025-05-29T01:43:26.765512+00:00
+[2025-05-28 22:43:26,781] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2025-05-28 22:44:01,900] {processor.py:153} INFO - Started process (PID=9493) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:44:01,901] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-05-28 22:44:01,901] {logging_mixin.py:115} INFO - [2025-05-28 22:44:01,901] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:44:01,910] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-05-28 22:44:01,932] {logging_mixin.py:115} INFO - [2025-05-28 22:44:01,932] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:44:01,954] {logging_mixin.py:115} INFO - [2025-05-28 22:44:01,954] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-05-28T01:44:01.954090+00:00, run_after=2025-05-29T01:44:01.954090+00:00
+[2025-05-28 22:44:01,974] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds

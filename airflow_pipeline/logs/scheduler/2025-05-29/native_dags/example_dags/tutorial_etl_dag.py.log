@@ -1,0 +1,123 @@
+[2025-05-28 22:34:25,413] {processor.py:153} INFO - Started process (PID=6279) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:34:25,414] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:34:25,414] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:34:25,438] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:34:25,712] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,712] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_etl_dag
+[2025-05-28 22:34:25,730] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,730] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_etl_dag
+[2025-05-28 22:34:25,828] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,828] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_etl_dag
+[2025-05-28 22:34:25,828] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,828] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:25,848] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,848] {dag.py:2398} INFO - Creating ORM DAG for tutorial_etl_dag
+[2025-05-28 22:34:25,886] {logging_mixin.py:115} INFO - [2025-05-28 22:34:25,886] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:34:25,951] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.556 seconds
+[2025-05-28 22:35:12,708] {processor.py:153} INFO - Started process (PID=6480) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:35:12,709] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:35:12,710] {logging_mixin.py:115} INFO - [2025-05-28 22:35:12,710] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:35:12,723] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:35:12,746] {logging_mixin.py:115} INFO - [2025-05-28 22:35:12,746] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:12,769] {logging_mixin.py:115} INFO - [2025-05-28 22:35:12,769] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:35:12,785] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.081 seconds
+[2025-05-28 22:35:50,325] {processor.py:153} INFO - Started process (PID=6650) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:35:50,326] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:35:50,327] {logging_mixin.py:115} INFO - [2025-05-28 22:35:50,327] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:35:50,343] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:35:50,385] {logging_mixin.py:115} INFO - [2025-05-28 22:35:50,385] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:50,457] {logging_mixin.py:115} INFO - [2025-05-28 22:35:50,457] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:35:50,510] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.190 seconds
+[2025-05-28 22:36:26,268] {processor.py:153} INFO - Started process (PID=7029) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:36:26,270] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:36:26,271] {logging_mixin.py:115} INFO - [2025-05-28 22:36:26,271] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:36:26,284] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:36:26,312] {logging_mixin.py:115} INFO - [2025-05-28 22:36:26,312] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:26,345] {logging_mixin.py:115} INFO - [2025-05-28 22:36:26,345] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:36:26,365] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.105 seconds
+[2025-05-28 22:37:02,545] {processor.py:153} INFO - Started process (PID=7286) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:37:02,546] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:37:02,547] {logging_mixin.py:115} INFO - [2025-05-28 22:37:02,547] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:37:02,558] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:37:02,584] {logging_mixin.py:115} INFO - [2025-05-28 22:37:02,583] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:02,619] {logging_mixin.py:115} INFO - [2025-05-28 22:37:02,619] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:37:02,638] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.099 seconds
+[2025-05-28 22:37:38,463] {processor.py:153} INFO - Started process (PID=7330) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:37:38,465] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:37:38,466] {logging_mixin.py:115} INFO - [2025-05-28 22:37:38,466] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:37:38,480] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:37:38,512] {logging_mixin.py:115} INFO - [2025-05-28 22:37:38,512] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:38,553] {logging_mixin.py:115} INFO - [2025-05-28 22:37:38,553] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:37:38,576] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.118 seconds
+[2025-05-28 22:38:15,284] {processor.py:153} INFO - Started process (PID=7472) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:38:15,285] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:38:15,286] {logging_mixin.py:115} INFO - [2025-05-28 22:38:15,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:38:15,296] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:38:15,317] {logging_mixin.py:115} INFO - [2025-05-28 22:38:15,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:15,337] {logging_mixin.py:115} INFO - [2025-05-28 22:38:15,337] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:38:15,352] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.075 seconds
+[2025-05-28 22:38:49,674] {processor.py:153} INFO - Started process (PID=7644) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:38:49,676] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:38:49,677] {logging_mixin.py:115} INFO - [2025-05-28 22:38:49,677] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:38:49,699] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:38:49,736] {logging_mixin.py:115} INFO - [2025-05-28 22:38:49,736] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:49,814] {logging_mixin.py:115} INFO - [2025-05-28 22:38:49,813] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:38:49,844] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.180 seconds
+[2025-05-28 22:39:29,729] {processor.py:153} INFO - Started process (PID=7897) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:39:29,730] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:39:29,731] {logging_mixin.py:115} INFO - [2025-05-28 22:39:29,731] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:39:29,756] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:39:29,800] {logging_mixin.py:115} INFO - [2025-05-28 22:39:29,800] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:29,855] {logging_mixin.py:115} INFO - [2025-05-28 22:39:29,855] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:39:29,894] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.176 seconds
+[2025-05-28 22:40:01,337] {processor.py:153} INFO - Started process (PID=7990) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:40:01,339] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:40:01,340] {logging_mixin.py:115} INFO - [2025-05-28 22:40:01,339] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:40:01,351] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:40:01,375] {logging_mixin.py:115} INFO - [2025-05-28 22:40:01,375] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:01,412] {logging_mixin.py:115} INFO - [2025-05-28 22:40:01,411] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:40:01,430] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.099 seconds
+[2025-05-28 22:40:37,118] {processor.py:153} INFO - Started process (PID=8238) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:40:37,123] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:40:37,125] {logging_mixin.py:115} INFO - [2025-05-28 22:40:37,124] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:40:37,143] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:40:37,182] {logging_mixin.py:115} INFO - [2025-05-28 22:40:37,182] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:37,215] {logging_mixin.py:115} INFO - [2025-05-28 22:40:37,215] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:40:37,232] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.123 seconds
+[2025-05-28 22:41:16,210] {processor.py:153} INFO - Started process (PID=8409) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:41:16,212] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:41:16,213] {logging_mixin.py:115} INFO - [2025-05-28 22:41:16,213] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:41:16,236] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:41:16,281] {logging_mixin.py:115} INFO - [2025-05-28 22:41:16,280] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:16,322] {logging_mixin.py:115} INFO - [2025-05-28 22:41:16,322] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:41:16,352] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.152 seconds
+[2025-05-28 22:41:55,461] {processor.py:153} INFO - Started process (PID=8821) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:41:55,463] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:41:55,464] {logging_mixin.py:115} INFO - [2025-05-28 22:41:55,464] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:41:55,480] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:41:55,513] {logging_mixin.py:115} INFO - [2025-05-28 22:41:55,513] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:55,563] {logging_mixin.py:115} INFO - [2025-05-28 22:41:55,563] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:41:55,584] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.130 seconds
+[2025-05-28 22:42:27,917] {processor.py:153} INFO - Started process (PID=9008) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:42:27,919] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:42:27,919] {logging_mixin.py:115} INFO - [2025-05-28 22:42:27,919] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:42:27,932] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:42:27,956] {logging_mixin.py:115} INFO - [2025-05-28 22:42:27,956] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:27,976] {logging_mixin.py:115} INFO - [2025-05-28 22:42:27,976] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:42:27,990] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.080 seconds
+[2025-05-28 22:43:01,157] {processor.py:153} INFO - Started process (PID=9258) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:43:01,158] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:43:01,159] {logging_mixin.py:115} INFO - [2025-05-28 22:43:01,158] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:43:01,175] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:43:01,203] {logging_mixin.py:115} INFO - [2025-05-28 22:43:01,203] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:01,240] {logging_mixin.py:115} INFO - [2025-05-28 22:43:01,240] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:43:01,262] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.110 seconds
+[2025-05-28 22:43:35,879] {processor.py:153} INFO - Started process (PID=9397) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:43:35,881] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:43:35,881] {logging_mixin.py:115} INFO - [2025-05-28 22:43:35,881] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:43:35,895] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:43:35,919] {logging_mixin.py:115} INFO - [2025-05-28 22:43:35,919] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:35,939] {logging_mixin.py:115} INFO - [2025-05-28 22:43:35,939] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:43:35,954] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.081 seconds
+[2025-05-28 22:44:12,742] {processor.py:153} INFO - Started process (PID=9556) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:44:12,743] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2025-05-28 22:44:12,744] {logging_mixin.py:115} INFO - [2025-05-28 22:44:12,744] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:44:12,754] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2025-05-28 22:44:12,777] {logging_mixin.py:115} INFO - [2025-05-28 22:44:12,777] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:44:12,797] {logging_mixin.py:115} INFO - [2025-05-28 22:44:12,797] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2025-05-28 22:44:12,813] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.076 seconds

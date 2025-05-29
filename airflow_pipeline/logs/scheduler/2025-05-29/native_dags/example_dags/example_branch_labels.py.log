@@ -1,0 +1,109 @@
+[2025-05-28 22:34:44,112] {processor.py:153} INFO - Started process (PID=6448) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:34:44,113] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:34:44,114] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,113] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:34:44,132] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:34:44,238] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,238] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-05-28 22:34:44,249] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,249] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-05-28 22:34:44,262] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,262] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-05-28 22:34:44,263] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,263] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:34:44,274] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,274] {dag.py:2398} INFO - Creating ORM DAG for example_branch_labels
+[2025-05-28 22:34:44,289] {logging_mixin.py:115} INFO - [2025-05-28 22:34:44,289] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:34:44,308] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.210 seconds
+[2025-05-28 22:35:25,978] {processor.py:153} INFO - Started process (PID=6514) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:35:25,979] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:35:25,980] {logging_mixin.py:115} INFO - [2025-05-28 22:35:25,980] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:35:25,991] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:35:26,022] {logging_mixin.py:115} INFO - [2025-05-28 22:35:26,022] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:35:26,052] {logging_mixin.py:115} INFO - [2025-05-28 22:35:26,051] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:35:26,067] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.094 seconds
+[2025-05-28 22:36:03,455] {processor.py:153} INFO - Started process (PID=6835) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:36:03,457] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:36:03,457] {logging_mixin.py:115} INFO - [2025-05-28 22:36:03,457] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:36:03,465] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:36:03,486] {logging_mixin.py:115} INFO - [2025-05-28 22:36:03,485] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:03,509] {logging_mixin.py:115} INFO - [2025-05-28 22:36:03,508] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:36:03,523] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.071 seconds
+[2025-05-28 22:36:38,908] {processor.py:153} INFO - Started process (PID=7098) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:36:38,909] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:36:38,910] {logging_mixin.py:115} INFO - [2025-05-28 22:36:38,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:36:38,918] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:36:38,940] {logging_mixin.py:115} INFO - [2025-05-28 22:36:38,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:36:38,967] {logging_mixin.py:115} INFO - [2025-05-28 22:36:38,967] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:36:38,980] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.078 seconds
+[2025-05-28 22:37:15,337] {processor.py:153} INFO - Started process (PID=7302) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:37:15,338] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:37:15,339] {logging_mixin.py:115} INFO - [2025-05-28 22:37:15,339] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:37:15,346] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:37:15,378] {logging_mixin.py:115} INFO - [2025-05-28 22:37:15,378] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:15,402] {logging_mixin.py:115} INFO - [2025-05-28 22:37:15,401] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:37:15,417] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.083 seconds
+[2025-05-28 22:37:52,765] {processor.py:153} INFO - Started process (PID=7350) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:37:52,767] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:37:52,768] {logging_mixin.py:115} INFO - [2025-05-28 22:37:52,768] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:37:52,806] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:37:52,879] {logging_mixin.py:115} INFO - [2025-05-28 22:37:52,879] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:37:52,935] {logging_mixin.py:115} INFO - [2025-05-28 22:37:52,935] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:37:52,964] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.207 seconds
+[2025-05-28 22:38:30,037] {processor.py:153} INFO - Started process (PID=7562) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:38:30,038] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:38:30,039] {logging_mixin.py:115} INFO - [2025-05-28 22:38:30,039] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:38:30,046] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:38:30,067] {logging_mixin.py:115} INFO - [2025-05-28 22:38:30,067] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:38:30,090] {logging_mixin.py:115} INFO - [2025-05-28 22:38:30,090] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:38:30,103] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.070 seconds
+[2025-05-28 22:39:12,258] {processor.py:153} INFO - Started process (PID=7871) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:39:12,260] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:39:12,261] {logging_mixin.py:115} INFO - [2025-05-28 22:39:12,261] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:39:12,274] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:39:12,295] {logging_mixin.py:115} INFO - [2025-05-28 22:39:12,295] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:12,318] {logging_mixin.py:115} INFO - [2025-05-28 22:39:12,318] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:39:12,333] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.082 seconds
+[2025-05-28 22:39:47,772] {processor.py:153} INFO - Started process (PID=7975) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:39:47,774] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:39:47,775] {logging_mixin.py:115} INFO - [2025-05-28 22:39:47,775] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:39:47,784] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:39:47,807] {logging_mixin.py:115} INFO - [2025-05-28 22:39:47,807] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:39:47,842] {logging_mixin.py:115} INFO - [2025-05-28 22:39:47,842] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:39:47,858] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.094 seconds
+[2025-05-28 22:40:25,432] {processor.py:153} INFO - Started process (PID=8173) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:40:25,434] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:40:25,434] {logging_mixin.py:115} INFO - [2025-05-28 22:40:25,434] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:40:25,443] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:40:25,464] {logging_mixin.py:115} INFO - [2025-05-28 22:40:25,464] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:40:25,489] {logging_mixin.py:115} INFO - [2025-05-28 22:40:25,489] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:40:25,508] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.083 seconds
+[2025-05-28 22:41:04,442] {processor.py:153} INFO - Started process (PID=8270) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:41:04,448] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:41:04,450] {logging_mixin.py:115} INFO - [2025-05-28 22:41:04,449] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:41:04,469] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:41:04,516] {logging_mixin.py:115} INFO - [2025-05-28 22:41:04,516] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:04,575] {logging_mixin.py:115} INFO - [2025-05-28 22:41:04,575] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:41:04,610] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.178 seconds
+[2025-05-28 22:41:46,346] {processor.py:153} INFO - Started process (PID=8758) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:41:46,348] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:41:46,349] {logging_mixin.py:115} INFO - [2025-05-28 22:41:46,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:41:46,365] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:41:46,409] {logging_mixin.py:115} INFO - [2025-05-28 22:41:46,409] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:41:46,458] {logging_mixin.py:115} INFO - [2025-05-28 22:41:46,458] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:41:46,482] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.142 seconds
+[2025-05-28 22:42:22,403] {processor.py:153} INFO - Started process (PID=8987) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:42:22,405] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:42:22,406] {logging_mixin.py:115} INFO - [2025-05-28 22:42:22,406] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:42:22,422] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:42:22,457] {logging_mixin.py:115} INFO - [2025-05-28 22:42:22,457] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:42:22,486] {logging_mixin.py:115} INFO - [2025-05-28 22:42:22,486] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:42:22,502] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.105 seconds
+[2025-05-28 22:43:03,082] {processor.py:153} INFO - Started process (PID=9261) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:43:03,083] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:43:03,084] {logging_mixin.py:115} INFO - [2025-05-28 22:43:03,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:43:03,095] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:43:03,117] {logging_mixin.py:115} INFO - [2025-05-28 22:43:03,117] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:03,141] {logging_mixin.py:115} INFO - [2025-05-28 22:43:03,141] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:43:03,155] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.080 seconds
+[2025-05-28 22:43:38,284] {processor.py:153} INFO - Started process (PID=9413) to work on /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:43:38,285] {processor.py:641} INFO - Processing file /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-05-28 22:43:38,285] {logging_mixin.py:115} INFO - [2025-05-28 22:43:38,285] {dagbag.py:507} INFO - Filling up the DagBag from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:43:38,293] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-05-28 22:43:38,313] {logging_mixin.py:115} INFO - [2025-05-28 22:43:38,313] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-05-28 22:43:38,334] {logging_mixin.py:115} INFO - [2025-05-28 22:43:38,334] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-05-28T00:00:00+00:00, run_after=2025-05-29T00:00:00+00:00
+[2025-05-28 22:43:38,348] {processor.py:161} INFO - Processing /home/cunhaaw/Downloads/APITwitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.070 seconds
